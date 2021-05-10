@@ -1,2 +1,0 @@
-# image-steganography
-Image Steganography
